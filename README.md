@@ -11,3 +11,5 @@ Smooth Scrolling: The website implements smooth scrolling functionality, providi
 Technologies Used:
 HTML5: The structure and content of the website are created using HTML5.
 CSS3: CSS3 is used for styling the website and implementing animations.
+
+Live demo:-  https://paralax-effect-sudhir.netlify.app/
