@@ -12,4 +12,10 @@ Technologies Used:
 HTML5: The structure and content of the website are created using HTML5.
 CSS3: CSS3 is used for styling the website and implementing animations.
 
+Screenshots:-![Screenshot_457](https://github.com/sudhirbhargav/Paralax-Effect/assets/93834423/87a351c4-a371-4d90-932b-1e47c2dc812a)
+
+Screenshots:-![Screenshot_460](https://github.com/sudhirbhargav/Paralax-Effect/assets/93834423/3b317e43-cdd7-483e-86d0-4ffb031eecc5)
+
+Screenshots:-![Screenshot_461](https://github.com/sudhirbhargav/Paralax-Effect/assets/93834423/853cd65e-19ec-4695-9779-c436ed27302c)
+
 Live demo:-  https://paralax-effect-sudhir.netlify.app/
